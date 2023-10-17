@@ -37,9 +37,10 @@ var fragmentShader = `
   void main() {
       vec4 color = texture2D(greyTexture, vUv);
       float grey = dot(color.rgb, vec3(0.299, 0.587, 0.114));
-      gl_FragColor = vec4(grey, grey, grey, color.a);
+      gl_FragColor = vec4(grey, grey, grey, 0.8); // Set the alpha to 0.5 for 50% transparency
   }
 `;
+
 
 var sphereGeometry = new THREE.SphereGeometry(5, 32, 32);
 
@@ -53,7 +54,8 @@ var sphereMaterial = new THREE.ShaderMaterial({
         greyTexture: { value: texture }
     },
     vertexShader: vertexShader,
-    fragmentShader: fragmentShader
+    fragmentShader: fragmentShader,
+    transparent: true, // Enable transparency
 });
 
 
@@ -63,46 +65,33 @@ var globe = new THREE.Mesh(sphereGeometry, sphereMaterial);
 
 
 
-var geometry = new THREE.BufferGeometry();
-var vertices = [];
-var indices = [];
+const heights = [0, 1, 5, 6, 4, 2];
 
-// Define the number of segments and heights for your cylinder
-var numSegments = 20;
-var numHeights = 10;
+// Create truncated cones at specified heights with radii based on previous and current index values
+for (let i = 1; i < heights.length; i++) {
+  var lowerRadius;
+  if( i == 0){
+    lowerRadius = 0;
+  }
+  else{
+    lowerRadius = heights[i - 1];
+  }
+    
+    const upperRadius = heights[i];
+    const coneHeight = 0.5;
 
-// Create vertices for the cylinder with varying radii at different heights
-for (var i = 0; i < numHeights; i++) {
-    var radius = Math.random() * 5 + 1; // Random radius for each height
-    for (var j = 0; j < numSegments; j++) {
-        var theta = (j / numSegments) * Math.PI * 2;
-        var x = radius * Math.cos(theta);
-        var y = radius * Math.sin(theta);
-        var z = i * 2; // Increase the height for each segment
-        vertices.push(x, y, z);
-    }
+    const geometry = new THREE.CylinderGeometry(upperRadius * 0.1, lowerRadius *0.1, coneHeight, 32);
+    const material = new THREE.MeshBasicMaterial({ color: 0xff0000 }); // Red color, you can change it to your desired color
+    const cone = new THREE.Mesh(geometry, material);
+
+    // Position the cones at specified heights
+    cone.position.set(0, 4.75+ i*coneHeight, 0);
+
+    // Add the cone to the scene
+    scene.add(cone);
 }
 
-// Create indices for the faces of the cylinder
-for (var i = 0; i < numHeights - 1; i++) {
-    for (var j = 0; j < numSegments; j++) {
-        var first = i * numSegments + j;
-        var second = (i + 1) * numSegments + j;
-        var third = (i + 1) * numSegments + (j + 1) % numSegments;
-        var fourth = i * numSegments + (j + 1) % numSegments;
-        indices.push(first, second, third);
-        indices.push(first, third, fourth);
-    }
-}
 
-// Set the vertices and indices to the buffer geometry
-geometry.setAttribute('position', new THREE.Float32BufferAttribute(vertices, 3));
-geometry.setIndex(indices);
-
-
-var material2 = new THREE.MeshBasicMaterial({ color: 0x00ff00 }); // You can use any material here
-var cylinder = new THREE.Mesh(geometry, material2);
-scene.add(cylinder);
 
 
 
