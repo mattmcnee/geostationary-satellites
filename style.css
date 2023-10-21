@@ -1,3 +1,90 @@
-body{
-  margin: 0;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
 }
+
+#app{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50vw;
+  height: 100vh;
+  z-index: -1;
+}
+
+#chartSide{
+  position: absolute;
+  top: 0;
+  left: calc(50vw - 20px);
+  width: 50vw;
+  height: 100vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+#log{
+  position: absolute;
+  left: calc(50vw - 100px);
+  top: calc(100vh - 80px);
+  width: 200px;
+  background-color: gray;
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#log:hover{
+  cursor: pointer;
+}
+
+#main-content{
+  position: absolute;
+  top: 100vh;
+  left: 0;
+  width: 100%;
+  color: white;
+  padding: 0 calc(-80px + 20vw);
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+    width: 8px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #888; /* color of the thumb */
+    border-radius: 2px;
+}
+
+@media (max-width: 800px){
+/*
+  body{
+    background-color: white;
+  }
+*/
+  #app{
+    left: 10vw;
+    width: 80vw;
+  }
+
+  #chartSide{
+    top: 100vh;
+    width: 80vw;
+    left: 10vw;
+  }
+
+  #main-content{
+    top: 200vh;
+  }
+
+  #log{
+    top: calc(100vh - 60px);
+  }
+}
+
