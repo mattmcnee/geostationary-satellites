@@ -1,0 +1,4048 @@
+[
+    {
+        "Name": "ABS-2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 75.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "ABS-2A",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -75.0,
+        "Altitude": 35700.0
+    },
+    {
+        "Name": "ABS-3A",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -3.0,
+        "Altitude": 35795.5
+    },
+    {
+        "Name": "ABS-4",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 75.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "ABS-6",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 159.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "USA 311",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 0.0,
+        "Altitude": 35750.0
+    },
+    {
+        "Name": "USA 139",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -26.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 171",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 68.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 202",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 44.0,
+        "Altitude": 35825.5
+    },
+    {
+        "Name": "USA 223",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 95.0,
+        "Altitude": 35500.0
+    },
+    {
+        "Name": "USA 237",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 60.0,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "USA 268",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 102.6,
+        "Altitude": 35758.0
+    },
+    {
+        "Name": "USA 246",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 152.1,
+        "Altitude": 35751.5
+    },
+    {
+        "Name": "USA 288",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 150.2,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "USA 292",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -94.39,
+        "Altitude": 35795.0
+    },
+    {
+        "Name": "USA 298",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 0.0,
+        "Altitude": 35780.0
+    },
+    {
+        "Name": "USA 235",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -120.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Eutelsat 48D",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 48.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Al Yah-3",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -20.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Alcomsat",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": -24.8,
+        "Altitude": 35771.0
+    },
+    {
+        "Name": "Amazonas-2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -61.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Amazonas-3",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -61.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Amazonas-4A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -61.0,
+        "Altitude": 35789.5
+    },
+    {
+        "Name": "Amazonas-5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -61.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "AMC-1",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -129.15,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "AMC-11",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -130.93,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "AMC-15",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -105.04,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "AMC-18",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -104.97,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "AMC-21",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -124.86,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "AMC-4",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -100.99,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "AMC-6",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -71.98,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "AMC-8",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -139.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Amos 17",
+        "Launch": "Cape Canaveral",
+        "Users": "Military/Commercial",
+        "Longitude": 17.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Amos 3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military/Commercial",
+        "Longitude": -3.99,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Amos 4",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military/Commercial",
+        "Longitude": 65.0,
+        "Altitude": 35714.5
+    },
+    {
+        "Name": "ANASIS-II",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 115.9,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Anik F1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -107.27,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Anik F1R",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -107.3,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Anik F2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -111.07,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Anik F3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -118.69,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Anik G1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -107.3,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Apstar 6C",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 134.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Apstar 6D",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 134.0,
+        "Altitude": 35835.0
+    },
+    {
+        "Name": "Apstar 7",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 76.5,
+        "Altitude": 35869.0
+    },
+    {
+        "Name": "Apstar 9",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 142.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Arabsat 5C",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 19.99,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Arabsat 6A",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 30.5,
+        "Altitude": 35792.5
+    },
+    {
+        "Name": "ArSat 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -71.8,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "ArSat 2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -81.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "AsiaSat-5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 100.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "AsiaSat-6",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 120.0,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "AsiaSat-7",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 105.5,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "AsiaSat-8",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 105.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "AsiaSat-9",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 122.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "AsiaStar",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 104.97,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Astra 1G",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 19.24,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Astra 1KR",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 19.16,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Astra 1L",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 19.3,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Astra 1M",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 19.2,
+        "Altitude": 35828.0
+    },
+    {
+        "Name": "Astra 1N",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 28.2,
+        "Altitude": 35747.5
+    },
+    {
+        "Name": "Astra 2A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 28.16,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Astra 2C",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 28.21,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Astra 2D",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 28.14,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Astra 2E",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 28.2,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Astra 2F",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 28.2,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Astra 2G",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 28.2,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Astra 3A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 23.48,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Astra 3B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 23.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Astra 5B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 31.55,
+        "Altitude": 35790.0
+    },
+    {
+        "Name": "AT&T T16",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -101.0,
+        "Altitude": 36205.0
+    },
+    {
+        "Name": "Athena-Fidus",
+        "Launch": "Guiana Space Center",
+        "Users": "Government/Military",
+        "Longitude": 25.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Azerspace 1/Africasat-1a",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 46.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Azerspace 2/Intelsat-38",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 45.0,
+        "Altitude": 35750.0
+    },
+    {
+        "Name": "Badr 4",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": 26.02,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Badr 5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": 26.0,
+        "Altitude": 35858.5
+    },
+    {
+        "Name": "Badr 5A",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 30.5,
+        "Altitude": 35614.0
+    },
+    {
+        "Name": "Badr 6",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 26.08,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Badr 7",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 26.0,
+        "Altitude": 35792.5
+    },
+    {
+        "Name": "Bangabandhu 1",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": 119.1,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Beidou 2-16",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 80.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Beidou 2-17",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 100.3,
+        "Altitude": 35783.0
+    },
+    {
+        "Name": "Beidou 2-18",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 144.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Beidou 3I-1S",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 107.48,
+        "Altitude": 36288.5
+    },
+    {
+        "Name": "Beidou 3I-2S",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 89.5,
+        "Altitude": 35779.5
+    },
+    {
+        "Name": "Beidou DW 32",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 110.0,
+        "Altitude": 35783.5
+    },
+    {
+        "Name": "Beidou DW 41",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 144.5,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Beidou DW 44",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 110.03,
+        "Altitude": 35779.0
+    },
+    {
+        "Name": "Beidou DW 45",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 144.48,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Beidou DW 46",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 105.99,
+        "Altitude": 35788.5
+    },
+    {
+        "Name": "Beidou 3 IGSO-3",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 106.72,
+        "Altitude": 35788.5
+    },
+    {
+        "Name": "Beidou DW 55",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 111.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Beidou G3",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 80.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Beidou G4",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 160.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Beidou G5",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 59.0,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "Beidou IGSO-1",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 118.0,
+        "Altitude": 35781.5
+    },
+    {
+        "Name": "Beidou IGSO-2",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 118.0,
+        "Altitude": 35767.0
+    },
+    {
+        "Name": "Beidou IGSO-3",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 118.0,
+        "Altitude": 36782.5
+    },
+    {
+        "Name": "Beidou IGSO-4",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 0.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "Beidou IGSO-5",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 104.21,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Belintersat-1",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 51.5,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Cosmos 2520",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military/Commercial",
+        "Longitude": 45.0,
+        "Altitude": 35792.0
+    },
+    {
+        "Name": "Cosmos 2526",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military/Commercial",
+        "Longitude": 128.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Cosmos 2533",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military/Commercial",
+        "Longitude": 70.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Cosmos 2539",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military/Commercial",
+        "Longitude": 55.0,
+        "Altitude": 35714.0
+    },
+    {
+        "Name": "Brazilsat B-4",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -84.03,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "BRISat",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 150.5,
+        "Altitude": 35789.0
+    },
+    {
+        "Name": "BSAT-3A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 109.91,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "BSAT-3B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 110.0,
+        "Altitude": 34395.5
+    },
+    {
+        "Name": "BSAT-3C/JCSat 110-R",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 110.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "BSAT-4A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 110.0,
+        "Altitude": 35722.0
+    },
+    {
+        "Name": "BSAT-4B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 110.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "BulgariaSat-1",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 1.9,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "USA 283",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -112.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Ciel-2",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 128.9,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "USA 257",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 106.0,
+        "Altitude": 35795.0
+    },
+    {
+        "Name": "CMS-1",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 78.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "COMS-1",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 128.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "COMSATBw-1",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 63.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "COMSATBw-2",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 13.2,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "DirecTV-10",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -102.74,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "DirecTV-11",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -99.21,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "DirecTV-12",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -102.8,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "DirecTV-14",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -99.0,
+        "Altitude": 35931.5
+    },
+    {
+        "Name": "DirecTV-15",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -103.0,
+        "Altitude": 35747.0
+    },
+    {
+        "Name": "DirecTV-5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -110.05,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "DirecTV-8",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -100.81,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "DirecTV-9S",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -101.08,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "USA 167",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 60.01,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 170",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -52.51,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "USA 135",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -130.05,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "USA 153",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -12.15,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 113",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -52.4,
+        "Altitude": 35784.0
+    },
+    {
+        "Name": "USA 148",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -179.8,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "USA 149",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -36.25,
+        "Altitude": 35903.0
+    },
+    {
+        "Name": "USA 159",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 69.48,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "USA 176",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 103.84,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Eagle-1",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -86.96,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Echostar 10",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -110.07,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Echostar 11",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -109.97,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Echostar 14",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -119.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Echostar 15",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -61.5,
+        "Altitude": 35796.0
+    },
+    {
+        "Name": "Echostar 16",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -61.5,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Echostar 17",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -107.1,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "Echostar 18",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -109.9,
+        "Altitude": 35740.0
+    },
+    {
+        "Name": "Echostar 19",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -97.1,
+        "Altitude": 35783.5
+    },
+    {
+        "Name": "Echostar 21",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 10.25,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Echostar 23",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -45.0,
+        "Altitude": 35794.5
+    },
+    {
+        "Name": "Echostar 7 ",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -118.85,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Echostar 9/Galaxy 23",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -121.02,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Echostar G1",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -92.92,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "EDRS-C",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 31.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Electro-L1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": 76.0,
+        "Altitude": 35536.5
+    },
+    {
+        "Name": "Electro-L2",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": -14.5,
+        "Altitude": 35754.5
+    },
+    {
+        "Name": "Electro-L3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": 165.8,
+        "Altitude": 35472.0
+    },
+    {
+        "Name": "Es'hail-1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 25.5,
+        "Altitude": 35746.0
+    },
+    {
+        "Name": "Es'hail-2",
+        "Launch": "Cape Canaveral",
+        "Users": "Military/Commercial",
+        "Longitude": 26.0,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": 286,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 77.46,
+        "Altitude": 35275.0
+    },
+    {
+        "Name": "Eutelsat 10A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 10.0,
+        "Altitude": 35801.5
+    },
+    {
+        "Name": "Eutelsat 113 West A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -113.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Eutensat 115 West B",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -114.9,
+        "Altitude": 35789.0
+    },
+    {
+        "Name": "Eutelsat 117 West A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -116.8,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Eutelsat 117 West B",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -116.8,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Eutelsat 133 West A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -133.0,
+        "Altitude": 35791.0
+    },
+    {
+        "Name": "Eutelsat 7A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -139.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Eutelsat 16A",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 16.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Eutelsat 172B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 172.0,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "Eutelsat 174A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 172.06,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Eutelsat 21B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 21.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Eutelsat 33E",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 33.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Eutelsat 36A",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 36.09,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Eutelsat 36B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 36.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Eutelsat 3B",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": 3.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Eutelsat 5 West A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -4.93,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Eutelsat 5 West B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -5.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Eutelsat 65 West A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -65.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Eutelsat 7 West A",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -7.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Eutelsat 70B",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": 70.0,
+        "Altitude": 35790.0
+    },
+    {
+        "Name": "Eutelsat 7B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 7.0,
+        "Altitude": 35789.0
+    },
+    {
+        "Name": "Eutelsat 7C",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 7.0,
+        "Altitude": 35690.0
+    },
+    {
+        "Name": "Eutelsat 8 West B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -8.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "Eutelsat 9B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 9.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Eutelsat Hot Bird 13B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 13.08,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Eutelsat Hot Bird 13C",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 13.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Eutelsat Hot Bird 13E",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 13.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Eutelsat Hotbird 13F",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 13.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "Eutelsat Hotbird 13G",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 13.0,
+        "Altitude": 194793.5
+    },
+    {
+        "Name": "Eutelsat KA-SAT 9A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 9.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Eutelsat Konnect",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 14.0,
+        "Altitude": 35700.0
+    },
+    {
+        "Name": "Eutelsat Konnect VHTS",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 3.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "Eutelsat Quantum",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 48.0,
+        "Altitude": 35750.0
+    },
+    {
+        "Name": "Express-103",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 96.5,
+        "Altitude": 35783.0
+    },
+    {
+        "Name": "Express-80",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 80.0,
+        "Altitude": 35783.0
+    },
+    {
+        "Name": "Express-AM3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 103.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Express-AM33",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 96.53,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Express-AM44",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -11.0,
+        "Altitude": 35991.0
+    },
+    {
+        "Name": "Express-AM5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 140.0,
+        "Altitude": 35680.0
+    },
+    {
+        "Name": "Express-AM6",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 53.0,
+        "Altitude": 35865.0
+    },
+    {
+        "Name": "Express-AM7",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 40.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Express-AM8",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -14.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Express-AMU1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 36.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "Express-AMU3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 103.0,
+        "Altitude": 34567.0
+    },
+    {
+        "Name": "Express-AMU7",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 145.0,
+        "Altitude": 34572.0
+    },
+    {
+        "Name": "Express-AT1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 56.0,
+        "Altitude": 35792.5
+    },
+    {
+        "Name": "Express-AT2",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 140.0,
+        "Altitude": 35662.0
+    },
+    {
+        "Name": "Fengyun 2F",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 112.0,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "Fengyun 2G",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 99.5,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Fengyun 4H",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 79.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Fengyun 4A",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 105.0,
+        "Altitude": 35784.0
+    },
+    {
+        "Name": "Fengyun 4B",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 123.8,
+        "Altitude": 35781.0
+    },
+    {
+        "Name": "USA 46",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -14.74,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Galaxy-11",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -55.5,
+        "Altitude": 35790.0
+    },
+    {
+        "Name": "Galaxy-12",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -122.9,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Galaxy-13",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -126.97,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Galaxy-14",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -124.96,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Galaxy-15",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -132.97,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Galaxy-16",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -99.02,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Galaxy-17",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -91.01,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Galaxy-18",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -123.02,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Galaxy-19",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -97.08,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Galaxy-25",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -93.09,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Galaxy-28",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -88.96,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Galaxy-30",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -125.0,
+        "Altitude": 35525.5
+    },
+    {
+        "Name": "Galaxy-33",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -133.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Galaxy-34",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -129.0,
+        "Altitude": 35740.0
+    },
+    {
+        "Name": "Galaxy-3C",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -95.02,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Gaofen 13",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 118.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Gaofen 4",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 105.7,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "Cosmos 2513",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military",
+        "Longitude": 76.06,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "GEO-Kompsat-2A",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 128.2,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "GEO-Kompsat-2B",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 128.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "GOES-13",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 75.0,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "GOES-14",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -104.41,
+        "Altitude": 35170.0
+    },
+    {
+        "Name": "GOES-15",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -135.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "GOES-R",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -75.2,
+        "Altitude": 35792.5
+    },
+    {
+        "Name": "GOES-S",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -137.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "GOES-T",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -136.8,
+        "Altitude": 35792.5
+    },
+    {
+        "Name": "GovSat-1",
+        "Launch": "Cape Canaveral",
+        "Users": "Government/Military",
+        "Longitude": 21.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "GSAT-10",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 83.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "GSAT-11",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 74.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "GSAT-12",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 82.94,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "GSAT-14",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 74.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "GSAT-15",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 93.5,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "GSAT-16",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 55.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "GSAT-17",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 93.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "GSAT-18",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 74.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "GSAT-19E",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 82.5,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "GSAT-24",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 0.0,
+        "Altitude": 35791.5
+    },
+    {
+        "Name": "GSAT-29",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 55.0,
+        "Altitude": 37794.5
+    },
+    {
+        "Name": "GSAT-30",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 83.0,
+        "Altitude": 35819.0
+    },
+    {
+        "Name": "GSAT-31",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 48.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "GSAT-6",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government/Commercial",
+        "Longitude": 83.0,
+        "Altitude": 35775.0
+    },
+    {
+        "Name": "GSAT-7",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 74.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "GSAT-7A",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Military",
+        "Longitude": 62.7,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "GSAT-8",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 55.0,
+        "Altitude": 35789.0
+    },
+    {
+        "Name": "USA 254",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 144.14,
+        "Altitude": 35829.0
+    },
+    {
+        "Name": "USA 270",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -111.17,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "USA 271",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -126.25,
+        "Altitude": 35834.0
+    },
+    {
+        "Name": "USA 324",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -95.0,
+        "Altitude": 35784.0
+    },
+    {
+        "Name": "USA 325",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -95.0,
+        "Altitude": 35728.5
+    },
+    {
+        "Name": "HellasSat-2",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 39.06,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "HellasSat-3",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 39.0,
+        "Altitude": 35736.5
+    },
+    {
+        "Name": "Hellas-Sat 4",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial/Government",
+        "Longitude": 39.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Himawari 8",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 140.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Himawari 9",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 140.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "Hispasat 1D",
+        "Launch": "Cape Canaveral",
+        "Users": "Government/Commercial/Military",
+        "Longitude": -29.95,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Hispasat 1E",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -30.0,
+        "Altitude": 35784.0
+    },
+    {
+        "Name": "Hispasat 30W-6",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -30.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Hispasat 36W-1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -36.9,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Horizons 2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 85.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Horizons 3e",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 169.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "HYLAS 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -33.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "HYLAS 2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 33.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "HYLAS 4",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 21.27,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "INMARSAT 3 F3",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 178.2,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "INMARSAT 3 F5",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 25.07,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "INMARSAT 4 F1",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 63.96,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "INMARSAT 4 F2",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -52.76,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "INMARSAT 4 F3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -97.65,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "INMARSAT 4-A F4",
+        "Launch": "Guiana Space Center",
+        "Users": "Government/Commercial",
+        "Longitude": 25.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "INMARSAT 5 F1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 60.3,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "INMARSAT 5 F2",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -55.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "INMARSAT 5 F3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 180.0,
+        "Altitude": 35780.0
+    },
+    {
+        "Name": "INMARSAT 5 F4",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 83.5,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "INMARSAT 5 F5",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 11.0,
+        "Altitude": 35679.0
+    },
+    {
+        "Name": "INMARSAT 6 F1",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Commercial",
+        "Longitude": 60.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "INSAT 3D",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 82.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "INSAT 3DR",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 74.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Intelsat 10",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 68.52,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 10-02",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -10.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 11",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -43.06,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Intelsat 12",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 45.04,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 14",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -45.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Intelsat 15",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 85.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Intelsat 16",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -58.12,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Intelsat 17",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 66.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Intelsat 18",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 180.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 19",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": 166.0,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "Intelsat 1R",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -44.96,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Intelsat 20",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 68.5,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Intelsat 21",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -58.0,
+        "Altitude": 35792.5
+    },
+    {
+        "Name": "Intelsat 22",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 72.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Intelsat 23",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -53.0,
+        "Altitude": 35789.0
+    },
+    {
+        "Name": "Intelsat 25",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -31.5,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Intelsat 30/DLA 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -95.0,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "Intelsat 31/DLA 2",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -95.0,
+        "Altitude": 35720.0
+    },
+    {
+        "Name": "Intelsat 33",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 60.0,
+        "Altitude": 35850.5
+    },
+    {
+        "Name": "Intelsat 34",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -55.49,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "Intelsat 35E",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -34.5,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 36",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 68.5,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": "Intelsat 37E",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -18.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Intelsat 39",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 62.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -156.9,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 9",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -29.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Intelsat 901",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -27.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Intelsat 902",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 62.05,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Intelsat 904",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 60.05,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Intelsat 905",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -24.52,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Intelsat 906",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 64.19,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Intelsat New Dawn",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 32.8,
+        "Altitude": 35846.0
+    },
+    {
+        "Name": "IRNSS-1A",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 55.0,
+        "Altitude": 35792.0
+    },
+    {
+        "Name": "IRNSS-1B",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 55.0,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "IRNSS-1C",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 83.0,
+        "Altitude": 35780.5
+    },
+    {
+        "Name": "IRNSS-1D",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 111.7,
+        "Altitude": 35766.5
+    },
+    {
+        "Name": "IRNSS-1E",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 111.7,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "IRNSS-1F",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 32.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "IRNSS-1G",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 129.5,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "IRNSS-1I",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 55.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "JCSat 10",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 127.51,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "JCSat 13",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 124.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "JCSat 14",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 154.0,
+        "Altitude": 35892.5
+    },
+    {
+        "Name": "JCSat 15",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 110.0,
+        "Altitude": 35747.5
+    },
+    {
+        "Name": "JCSat 16",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 162.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "JCSat 17",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 136.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "JCSat18/Kacific 1",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 150.0,
+        "Altitude": 35789.5
+    },
+    {
+        "Name": "JCSat 2A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 154.0,
+        "Altitude": 35791.0
+    },
+    {
+        "Name": "JCSat 9",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": 132.04,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "JCSat RA",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 142.49,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "KazSat-2",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 86.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "KazSat-3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 58.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Kirameki 2",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Military",
+        "Longitude": 92.97,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Koreasat 5",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Military/Commercial",
+        "Longitude": 113.08,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Koreasat 5A",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 113.0,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": "Koreasat 6",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 116.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Koreasat 7",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 116.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "LaoSat-1",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 128.5,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "LDPE-1",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 0.0,
+        "Altitude": 36104.5
+    },
+    {
+        "Name": "LUCAS",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 91.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Luch 5A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": 166.99,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Luch 5B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": -16.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Luch 5V",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Government",
+        "Longitude": 95.0,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "Luch/Olympus",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military",
+        "Longitude": 95.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Measat 3A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 91.5,
+        "Altitude": 35758.0
+    },
+    {
+        "Name": "Measat 3B",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 91.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Measat 3D",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 91.5,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Merah Putih",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 107.0,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": 105,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -27.95,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": 118,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -23.51,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": 250,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 0.0,
+        "Altitude": 35500.0
+    },
+    {
+        "Name": "Meteosat 10",
+        "Launch": "Guiana Space Center",
+        "Users": "Government/Civil",
+        "Longitude": 0.0,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "Meteosat 11",
+        "Launch": "Guiana Space Center",
+        "Users": "Government/Civil",
+        "Longitude": 0.0,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": "Meteosat 8",
+        "Launch": "Guiana Space Center",
+        "Users": "Government/Civil",
+        "Longitude": 41.5,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Meteosat 9",
+        "Launch": "Guiana Space Center",
+        "Users": "Government/Civil",
+        "Longitude": -0.02,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "MEV-1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -27.5,
+        "Altitude": 36000.0
+    },
+    {
+        "Name": "MEV-2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 359.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Mexsat-3",
+        "Launch": "Guiana Space Center",
+        "Users": "Government/Military",
+        "Longitude": -114.9,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "Mexsat-3",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -116.8,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": 99,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -38.9,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": 157,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -67.9,
+        "Altitude": 35766.0
+    },
+    {
+        "Name": 164,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 3.92,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": 169,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -89.98,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "MSAT 2",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -101.21,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "MUOS-1",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -176.96,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "MUOS-2",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -100.1,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "MUOS-3",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -15.48,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "MUOS-4",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 74.8,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "MUOS-5",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -104.13,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "NigComSat-1R",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 42.5,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "Nilesat 201",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": -7.0,
+        "Altitude": 35804.0
+    },
+    {
+        "Name": "Nilesat 301",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -7.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Nimiq 4",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -81.96,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Nimiq 5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -72.7,
+        "Altitude": 35700.0
+    },
+    {
+        "Name": "Nimiq 6",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -91.1,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Nntara Satu (PSN-6)",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 146.0,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "NSS-10",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -37.37,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "NSS-11",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 108.21,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "NSS-12",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 57.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "NSS-6",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 95.04,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "NSS-7",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -21.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "NSS-9",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -176.9,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "Optus 10",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 164.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Optus and Defence C1",
+        "Launch": "Guiana Space Center",
+        "Users": "Military/Commercial",
+        "Longitude": 156.06,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Optus D1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 160.06,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Optus D2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 152.05,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Optus D3",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 155.98,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Paksat-1R",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government/Commercial",
+        "Longitude": 38.0,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": 207,
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 47.7,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "QueztSat-1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -77.01,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "QZS-1",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 126.99,
+        "Altitude": 35784.0
+    },
+    {
+        "Name": "QZS-1R",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 126.99,
+        "Altitude": 35805.5
+    },
+    {
+        "Name": "QZS-2",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 146.94,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "QZS-3",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 127.0,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": "QZS-4",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Government",
+        "Longitude": 130.0,
+        "Altitude": 35782.5
+    },
+    {
+        "Name": "Raduga 1-M2",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military",
+        "Longitude": 70.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Raduga 1-M3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military",
+        "Longitude": 70.04,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Rascom-QAF 1R",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 2.85,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 230",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -96.84,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 241",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 20.6,
+        "Altitude": 35780.0
+    },
+    {
+        "Name": "USA 273",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -159.6,
+        "Altitude": 35782.0
+    },
+    {
+        "Name": "USA 282",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -159.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 315",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -146.2,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "USA 336",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 0.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "SDO",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -102.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "USA 227",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 131.06,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 236",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -10.11,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "USA 252",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 170.09,
+        "Altitude": 35500.0
+    },
+    {
+        "Name": "USA 269",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 92.01,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 279",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 91.07,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "SES-1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -101.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "SES-10",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -67.0,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "SES-11/EchoStar 105",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -105.0,
+        "Altitude": 35793.0
+    },
+    {
+        "Name": "SES-12",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial ",
+        "Longitude": 95.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "SES-14",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -100.7,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "SES-15",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -129.0,
+        "Altitude": 35777.0
+    },
+    {
+        "Name": "SES-17",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -61.7,
+        "Altitude": 27028.5
+    },
+    {
+        "Name": "SES-2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -87.0,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "SES-20",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -103.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "SES-21",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -131.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "SES-22",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -135.0,
+        "Altitude": 35729.0
+    },
+    {
+        "Name": "SES-3",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -103.0,
+        "Altitude": 35851.0
+    },
+    {
+        "Name": "SES-4",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -22.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "SES-5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 5.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "SES-6",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -40.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "SES-7",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 108.02,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "SES-8",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 95.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "SES-9",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 108.02,
+        "Altitude": 35789.0
+    },
+    {
+        "Name": "SGDC",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial/Military",
+        "Longitude": -74.85,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Shijian 13",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 110.5,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Shijian 17",
+        "Launch": "Wenchang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 162.9,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Shijian 20",
+        "Launch": "Wenchang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 125.0,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "Shijian 21",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 0.0,
+        "Altitude": 35874.0
+    },
+    {
+        "Name": "Shiyan 12-01",
+        "Launch": "Wenchang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 94.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Shiyan 12-02",
+        "Launch": "Wenchang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 94.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Shiyan 9",
+        "Launch": "Wenchang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 0.0,
+        "Altitude": 18159.0
+    },
+    {
+        "Name": "Sicral 1A",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 16.25,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Sicral 1B",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Military/Commercial",
+        "Longitude": 11.8,
+        "Altitude": 35795.0
+    },
+    {
+        "Name": "Sicral 2/Syracuse 3C",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 37.0,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Sinosat-6",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 0.0,
+        "Altitude": 35795.0
+    },
+    {
+        "Name": "Sirius 4",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 4.85,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Sirius FM-5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -96.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Sirius FM-6",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -115.2,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "Sirius XM-3",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -85.04,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Sirius XM-4",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -114.96,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Sirius XM-5",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -85.2,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Sirius XM-8",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -120.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Sky Mexico-1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -79.0,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "Sky Muster 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 150.0,
+        "Altitude": 35760.5
+    },
+    {
+        "Name": "Sky Muster 2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 145.0,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "SkyBrasil-1 (Intelsat 32E)",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 43.1,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Skynet 4C",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": -1.3,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Skynet 4E",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 35.58,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Skynet 5A",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": -1.12,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Skynet 5B",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 52.8,
+        "Altitude": 35751.5
+    },
+    {
+        "Name": "Skynet 5C",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": -17.83,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Skynet 5D",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 25.0,
+        "Altitude": 35789.5
+    },
+    {
+        "Name": "SkyTerra 1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -101.3,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "South Asia Satellite",
+        "Launch": "Satish Dhawan Space Centre",
+        "Users": "Government",
+        "Longitude": 48.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Spaceway 3",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -94.93,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Spaceway F2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -99.08,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Spainsat",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": -30.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "ST-2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 87.99,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Star One C1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -64.98,
+        "Altitude": 35740.5
+    },
+    {
+        "Name": "Star One C2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -69.93,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Star One C3",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -75.0,
+        "Altitude": 35819.5
+    },
+    {
+        "Name": "Star One C4",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -70.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "Star One D1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -84.0,
+        "Altitude": 35759.0
+    },
+    {
+        "Name": "Star One D2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 0.0,
+        "Altitude": 35793.5
+    },
+    {
+        "Name": "STPSat-6",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 0.0,
+        "Altitude": 36103.5
+    },
+    {
+        "Name": "Superbird 7",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 143.77,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Superbird 8/DSN 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial/Military",
+        "Longitude": 158.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Syracuse 3A",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 47.05,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Syracuse 3B",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": -5.17,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Syracuse 4A",
+        "Launch": "Guiana Space Center",
+        "Users": "Military",
+        "Longitude": 47.05,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "TDRS-10",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -40.75,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "TDRS-11",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -171.0,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "TDRS-12",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -40.95,
+        "Altitude": 35782.5
+    },
+    {
+        "Name": "TDRS-13",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -149.75,
+        "Altitude": 35784.0
+    },
+    {
+        "Name": "TDRS-3",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -49.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "TDRS-5",
+        "Launch": "Cape Canaveral",
+        "Users": "Government/Commercial",
+        "Longitude": -174.0,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "TDRS-6",
+        "Launch": "Cape Canaveral",
+        "Users": "Government/Commercial",
+        "Longitude": -171.35,
+        "Altitude": 35780.0
+    },
+    {
+        "Name": "TDRS-7",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -150.53,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "TDRS-8",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": 88.76,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "TDRS-9",
+        "Launch": "Cape Canaveral",
+        "Users": "Government",
+        "Longitude": -62.43,
+        "Altitude": 35788.5
+    },
+    {
+        "Name": "Telkom 3S",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 117.97,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "Telstar 11N",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": -37.05,
+        "Altitude": 35787.5
+    },
+    {
+        "Name": "Telstar 12V",
+        "Launch": "Tanegashima Space Center",
+        "Users": "Commercial",
+        "Longitude": -15.0,
+        "Altitude": 35686.0
+    },
+    {
+        "Name": "Telstar 14R",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -63.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Telstar 18 Vantage",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 138.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Telstar 19 Vantage",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": -63.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "TerraStar 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -111.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Thaicom-4",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 119.5,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Thaicom-6",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 78.5,
+        "Altitude": 35791.0
+    },
+    {
+        "Name": "Thaicom-8",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 78.5,
+        "Altitude": 35866.5
+    },
+    {
+        "Name": "Thor-5 ",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -0.72,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Thor-6",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -1.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Thor-7",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -1.0,
+        "Altitude": 35734.0
+    },
+    {
+        "Name": "Thuraya 2",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": 44.13,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Thuraya 3",
+        "Launch": "Sea Launch Odyssey",
+        "Users": "Commercial",
+        "Longitude": 98.6,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "TianLian 1",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 77.08,
+        "Altitude": 35791.0
+    },
+    {
+        "Name": "TianLian 2",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 176.72,
+        "Altitude": 37786.0
+    },
+    {
+        "Name": "TianLian 2-01",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 79.9,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "TianLian 2-02",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government ",
+        "Longitude": 171.0,
+        "Altitude": 35789.5
+    },
+    {
+        "Name": "TianLian 3 ",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 16.86,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "TianLian 4",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 76.95,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "TianLian 5",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 10.5,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Tiantong-1-01",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 101.43,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Tiantong-1-02",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 125.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Tiantong-1-03",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 81.43,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "TIBA-1",
+        "Launch": "Guiana Space Center",
+        "Users": "Military/Commercial",
+        "Longitude": 35.5,
+        "Altitude": 35761.0
+    },
+    {
+        "Name": "TJS-1",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 155.07,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "TJS-2",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 107.42,
+        "Altitude": 35788.0
+    },
+    {
+        "Name": "TJS-3",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 59.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "TJS-3 subsatellite",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 59.13,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "TJS-4",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 83.53,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "TJS-5",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 178.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "TJS-6",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 179.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "TJS-7",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 0.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "TKSat-1",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": -87.24,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Turkmen Alem 52E/MonacoSAT",
+        "Launch": "Cape Canaveral",
+        "Users": "Government/Commercial",
+        "Longitude": 52.0,
+        "Altitude": 35719.5
+    },
+    {
+        "Name": "Turksat 3A",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": 42.04,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Turksat 4A",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 50.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Turksat 4B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 50.0,
+        "Altitude": 35796.0
+    },
+    {
+        "Name": "Turksat 5A",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 31.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Turksat 5B",
+        "Launch": "Cape Canaveral",
+        "Users": "Commercial",
+        "Longitude": 42.0,
+        "Altitude": 34564.5
+    },
+    {
+        "Name": "USA 146",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 72.67,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "USA 174",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 71.44,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 95",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 28.79,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 108",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -177.12,
+        "Altitude": 35769.0
+    },
+    {
+        "Name": "USA 138",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 172.28,
+        "Altitude": 35783.0
+    },
+    {
+        "Name": "ViaSat-1",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": -115.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "ViaSat-2",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -69.9,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Vinasat 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 131.97,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Vinasat 2",
+        "Launch": "Guiana Space Center",
+        "Users": "Government",
+        "Longitude": 131.8,
+        "Altitude": 35759.0
+    },
+    {
+        "Name": "USA 195",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 179.88,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 291",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -52.0,
+        "Altitude": 35780.0
+    },
+    {
+        "Name": "USA 204",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 60.18,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 211",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -12.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "USA 233",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -124.5,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "USA 243",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -52.5,
+        "Altitude": 35761.5
+    },
+    {
+        "Name": "USA 244",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -135.22,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 263",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 174.96,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "USA 272",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": -150.0,
+        "Altitude": 35770.0
+    },
+    {
+        "Name": "USA 275",
+        "Launch": "Cape Canaveral",
+        "Users": "Military",
+        "Longitude": 149.81,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "WildBlue 1",
+        "Launch": "Guiana Space Center",
+        "Users": "Commercial",
+        "Longitude": -111.09,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "XTAR-EUR",
+        "Launch": "Guiana Space Center",
+        "Users": "Military/Government",
+        "Longitude": 29.03,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Yahsat-1A",
+        "Launch": "Guiana Space Center",
+        "Users": "Military/Commercial",
+        "Longitude": 52.5,
+        "Altitude": 35783.0
+    },
+    {
+        "Name": "Yahsat-1B",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Military/Commercial",
+        "Longitude": 47.6,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Yamal-202",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 49.03,
+        "Altitude": 35785.0
+    },
+    {
+        "Name": "Yamal-300K",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 90.0,
+        "Altitude": 35780.0
+    },
+    {
+        "Name": "Yamal-401",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 90.0,
+        "Altitude": 35791.5
+    },
+    {
+        "Name": "Yamal-402",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 55.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Yamal-601",
+        "Launch": "Baikonur Cosmodrome",
+        "Users": "Commercial",
+        "Longitude": 49.0,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Zhongxing 10",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 110.5,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Zhongxing 11",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 98.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Zhongxing 12",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 87.5,
+        "Altitude": 35783.0
+    },
+    {
+        "Name": "Zhongxing 1A",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military",
+        "Longitude": 129.84,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Zhongxing 1C",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 81.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Zhongxing 1D",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Commercial",
+        "Longitude": 130.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Zhongxing 1E",
+        "Launch": "Wenchang Space Center",
+        "Users": "Commercial",
+        "Longitude": 82.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Zhongxing 20A",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military",
+        "Longitude": 130.0,
+        "Altitude": 35786.0
+    },
+    {
+        "Name": "Zhongxing 2A",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Military/Government",
+        "Longitude": 98.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Zhongxing 2C",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government/Commercial",
+        "Longitude": 103.43,
+        "Altitude": 35794.0
+    },
+    {
+        "Name": "Zhongxing 2D",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government/Commercial",
+        "Longitude": 130.0,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Zhongxing 2E",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government/Commercial",
+        "Longitude": 0.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Zhongxing 6B",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government/Commercial",
+        "Longitude": 115.58,
+        "Altitude": 35787.0
+    },
+    {
+        "Name": "Zhongxing 6C",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government/Commercial",
+        "Longitude": 130.0,
+        "Altitude": 35784.5
+    },
+    {
+        "Name": "Zhongxing 6D",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government/Commercial",
+        "Longitude": 125.0,
+        "Altitude": 35786.5
+    },
+    {
+        "Name": "Zhongxing 9",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 92.22,
+        "Altitude": 35785.5
+    },
+    {
+        "Name": "Zhongxing 9B",
+        "Launch": "Xichang Satellite Launch Center",
+        "Users": "Government",
+        "Longitude": 101.4,
+        "Altitude": 35786.0
+    }
+]
